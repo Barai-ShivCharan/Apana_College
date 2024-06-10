@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    background-color: yellow;
+}
+body{
+    background-color: pink;
+}
+button{
+    color: blueviolet;
+    background-color: aqua;
+}
+.h-1{
+    background-color: aqua;
+    color: red;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid aqua;
+    background-color: yellow;
+    margin: 5px;
+}
